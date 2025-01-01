@@ -27,4 +27,5 @@ IV. PNG로 저장
 - HTMLCanvasElement의 `toDataURL` 메서드를 활용해 그림을 Base64 인코딩된 image data로 변환한다. 
 - <a> 태그로 dataURL을 속성으로 설정함으로써 다운로드 기능을 구현한다. 
 - `link.click()`로 가상의 클릭 이벤트를 실행해 파일 다운로드를 유도한다.
+![스크린샷 2025-01-01 오후 8 21 31](https://github.com/user-attachments/assets/9956e0c5-359a-4190-8629-d7686ba28a7b)
 
